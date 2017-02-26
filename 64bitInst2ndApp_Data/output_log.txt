@@ -1,0 +1,302 @@
+Mono path[0] = 'C:/Users/sheep/Desktop/AR/Unity/64bitInst2ndApp/64bitInst2ndApp_Data/Managed'
+Mono path[1] = 'C:/Users/sheep/Desktop/AR/Unity/64bitInst2ndApp/64bitInst2ndApp_Data/Mono'
+Mono config path = 'C:/Users/sheep/Desktop/AR/Unity/64bitInst2ndApp/64bitInst2ndApp_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/sheep/Desktop/AR/Unity/64bitInst2ndApp/64bitInst2ndApp_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55466
+Multi-casting "[IP] 192.168.3.6 [Port] 55466 [Flags] 2 [Guid] 1820184568 [EditorId] 1980002453 [Version] 1048832 [Id] WindowsPlayer(MyComputer) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55466]
+PlayerConnection already initialized - listening to [0.0.0.0:55466]
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   Intel
+    VRAM:     4194 MB
+    Driver:   21.20.16.4534
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\64bitInst2ndApp_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\64bitInst2ndApp_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\64bitInst2ndApp_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\64bitInst2ndApp_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\64bitInst2ndApp_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\64bitInst2ndApp_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\64bitInst2ndApp_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\64bitInst2ndApp_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\64bitInst2ndApp_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\64bitInst2ndApp_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\64bitInst2ndApp_Data\Managed\Vuforia.UnityExtensions.dll (this message is harmless)
+Loading C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\64bitInst2ndApp_Data\Managed\Vuforia.UnityExtensions.dll into Unity Child Domain
+- Completed reload, in  0.154 seconds
+Platform assembly: C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\64bitInst2ndApp_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\64bitInst2ndApp_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on VuforiaAbstractBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoScriptCache.cpp Line: 382)
+
+OnLevelWasLoaded was found on VuforiaBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoScriptCache.cpp Line: 382)
+
+desktop: 1280x720 59Hz; virtual: 1280x720 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.602060 ms
+Setting BehaviourComponentFactory
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.ComponentFactoryStarterBehaviour:SetBehaviourComponentFactory() (at C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\Assets\Vuforia\Scripts\Internal\ComponentFactoryStarterBehaviour.cs:51)
+Vuforia.ComponentFactoryStarterBehaviour:Awake() (at C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\Assets\Vuforia\Scripts\Internal\ComponentFactoryStarterBehaviour.cs:41)
+UnityEngine.GameObject:Internal_AddComponentWithType(Type)
+UnityEngine.GameObject:AddComponent(Type) (at C:\buildslave\unity\build\artifacts\generated\common\runtime\GameObjectBindings.gen.cs:352)
+UnityEngine.GameObject:AddComponent() (at C:\buildslave\unity\build\artifacts\generated\common\runtime\GameObjectBindings.gen.cs:357)
+Vuforia.VuforiaBehaviour:Awake() (at C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\Assets\Vuforia\Scripts\VuforiaBehaviour.cs:23)
+ 
+(Filename: C:/Users/sheep/Desktop/AR/Unity/64bitInst2ndApp/Assets/Vuforia/Scripts/Internal/ComponentFactoryStarterBehaviour.cs Line: 51)
+
+Vuforia initialization successful
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.VuforiaRuntime:InitVuforia()
+Vuforia.VuforiaRuntimeInitialization:InitVuforia() (at C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\Assets\Vuforia\Scripts\VuforiaRuntimeInitialization.cs:40)
+ 
+(Filename: C:/Users/sheep/Desktop/AR/Unity/64bitInst2ndApp/Assets/Vuforia/Scripts/VuforiaRuntimeInitialization.cs Line: 40)
+
+Could not initialize the tracker.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+Vuforia.TrackerManagerImpl:InitTracker()
+Vuforia.VuforiaARController:Start()
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+System.Reflection.MethodBase:Invoke(Object, Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+System.Delegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:443)
+System.MulticastDelegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/MulticastDelegate.cs:71)
+System.Delegate:DynamicInvoke(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:415)
+Vuforia.DelegateHelper:InvokeDelegate(Delegate, Object[])
+Vuforia.DelegateHelper:InvokeWithExceptionHandling(Action)
+Vuforia.VuforiaAbstractBehaviour:Start()
+ 
+(Filename: /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs Line: 222)
+
+SetHint
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.VuforiaUnityImpl:SetHint(VuforiaHint, Int32)
+Vuforia.VuforiaUnity:SetHint(VuforiaHint, Int32)
+Vuforia.VuforiaARController:Start()
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+System.Reflection.MethodBase:Invoke(Object, Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+System.Delegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:443)
+System.MulticastDelegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/MulticastDelegate.cs:71)
+System.Delegate:DynamicInvoke(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:415)
+Vuforia.DelegateHelper:InvokeDelegate(Delegate, Object[])
+Vuforia.DelegateHelper:InvokeWithExceptionHandling(Action)
+Vuforia.VuforiaAbstractBehaviour:Start()
+ 
+(Filename: /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs Line: 222)
+
+SetHint
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.VuforiaUnityImpl:SetHint(VuforiaHint, Int32)
+Vuforia.VuforiaUnity:SetHint(VuforiaHint, Int32)
+Vuforia.VuforiaARController:Start()
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+System.Reflection.MethodBase:Invoke(Object, Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+System.Delegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:443)
+System.MulticastDelegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/MulticastDelegate.cs:71)
+System.Delegate:DynamicInvoke(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:415)
+Vuforia.DelegateHelper:InvokeDelegate(Delegate, Object[])
+Vuforia.DelegateHelper:InvokeWithExceptionHandling(Action)
+Vuforia.VuforiaAbstractBehaviour:Start()
+ 
+(Filename: /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs Line: 222)
+
+SetHint
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.VuforiaUnityImpl:SetHint(VuforiaHint, Int32)
+Vuforia.VuforiaUnity:SetHint(VuforiaHint, Int32)
+Vuforia.VuforiaARController:Start()
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+System.Reflection.MethodBase:Invoke(Object, Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+System.Delegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:443)
+System.MulticastDelegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/MulticastDelegate.cs:71)
+System.Delegate:DynamicInvoke(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:415)
+Vuforia.DelegateHelper:InvokeDelegate(Delegate, Object[])
+Vuforia.DelegateHelper:InvokeWithExceptionHandling(Action)
+Vuforia.VuforiaAbstractBehaviour:Start()
+ 
+(Filename: /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs Line: 222)
+
+Dataset hoge could not be loaded and cannot be activated.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+Vuforia.DatabaseLoadARController:LoadDatasets()
+Vuforia.VuforiaARController:Start()
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+System.Reflection.MethodBase:Invoke(Object, Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+System.Delegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:443)
+System.MulticastDelegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/MulticastDelegate.cs:71)
+System.Delegate:DynamicInvoke(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:415)
+Vuforia.DelegateHelper:InvokeDelegate(Delegate, Object[])
+Vuforia.DelegateHelper:InvokeWithExceptionHandling(Action)
+Vuforia.VuforiaAbstractBehaviour:Start()
+ 
+(Filename: /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs Line: 222)
+
+StartVuforia
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.VuforiaARController:StartVuforia(Boolean)
+Vuforia.VuforiaARController:Start()
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+System.Reflection.MethodBase:Invoke(Object, Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+System.Delegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:443)
+System.MulticastDelegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/MulticastDelegate.cs:71)
+System.Delegate:DynamicInvoke(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:415)
+Vuforia.DelegateHelper:InvokeDelegate(Delegate, Object[])
+Vuforia.DelegateHelper:InvokeWithExceptionHandling(Action)
+Vuforia.VuforiaAbstractBehaviour:Start()
+ 
+(Filename: /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs Line: 222)
+
+Creating a Mono Camera Configuration (Check for reflection)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.DigitalEyewearARController:ConfigureView()
+Vuforia.DigitalEyewearARController:OnVuforiaStarted()
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+System.Reflection.MethodBase:Invoke(Object, Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+System.Delegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:443)
+System.MulticastDelegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/MulticastDelegate.cs:71)
+System.Delegate:DynamicInvoke(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:415)
+Vuforia.DelegateHelper:InvokeDelegate(Delegate, Object[])
+Vuforia.DelegateHelper:InvokeWithExceptionHandling(Action)
+Vuforia.VuforiaARController:Start()
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+System.Reflection.MethodBase:Invoke(Object, Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+System.Delegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:443)
+System.MulticastDelegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/MulticastDelegate.cs:71)
+System.Delegate:DynamicInvoke(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:415)
+Vuforia.DelegateHelper:InvokeDelegate(Delegate, Object[])
+Vuforia.DelegateHelper:InvokeWithExceptionHandling(Action)
+Vuforia.VuforiaAbstractBehaviour:Start()
+ 
+(Filename: /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs Line: 222)
+
+Trackable imageLicenseLogo lost
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.DefaultTrackableEventHandler:OnTrackingLost() (at C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs:107)
+Vuforia.DefaultTrackableEventHandler:OnTrackableStateChanged(Status, Status) (at C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs:58)
+Vuforia.TrackableBehaviour:RegisterTrackableEventHandler(ITrackableEventHandler)
+Vuforia.DefaultTrackableEventHandler:Start() (at C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs:32)
+ 
+(Filename: C:/Users/sheep/Desktop/AR/Unity/64bitInst2ndApp/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs Line: 107)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 19b0 -> priority: 1 
+  Thread -> id: c88 -> priority: 1 
+StopVuforia
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.VuforiaARController:StopVuforia()
+Vuforia.VuforiaARController:OnApplicationPause(Boolean)
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+System.Reflection.MethodBase:Invoke(Object, Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+System.Delegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:443)
+System.MulticastDelegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/MulticastDelegate.cs:71)
+System.Delegate:DynamicInvoke(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:415)
+Vuforia.DelegateHelper:InvokeDelegate(Delegate, Object[])
+Vuforia.DelegateHelper:InvokeWithExceptionHandling(Action`1, Boolean)
+Vuforia.VuforiaAbstractBehaviour:OnApplicationPause(Boolean)
+ 
+(Filename: /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs Line: 222)
+
+StartVuforia
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.VuforiaARController:StartVuforia(Boolean)
+Vuforia.VuforiaARController:OnApplicationPause(Boolean)
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+System.Reflection.MethodBase:Invoke(Object, Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+System.Delegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:443)
+System.MulticastDelegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/MulticastDelegate.cs:71)
+System.Delegate:DynamicInvoke(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:415)
+Vuforia.DelegateHelper:InvokeDelegate(Delegate, Object[])
+Vuforia.DelegateHelper:InvokeWithExceptionHandling(Action`1, Boolean)
+Vuforia.VuforiaAbstractBehaviour:OnApplicationPause(Boolean)
+ 
+(Filename: /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs Line: 222)
+
+Trackable imageLicenseLogo lost
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.DefaultTrackableEventHandler:OnTrackingLost() (at C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs:107)
+Vuforia.DefaultTrackableEventHandler:OnTrackableStateChanged(Status, Status) (at C:\Users\sheep\Desktop\AR\Unity\64bitInst2ndApp\Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs:58)
+Vuforia.TrackableBehaviour:OnDisable()
+ 
+(Filename: C:/Users/sheep/Desktop/AR/Unity/64bitInst2ndApp/Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs Line: 107)
+
+StopVuforia
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Vuforia.VuforiaARController:StopVuforia()
+Vuforia.VuforiaARController:OnDisable()
+System.Reflection.MonoMethod:InternalInvoke(Object, Object[], Exception&)
+System.Reflection.MonoMethod:Invoke(Object, BindingFlags, Binder, Object[], CultureInfo) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222)
+System.Reflection.MethodBase:Invoke(Object, Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MethodBase.cs:115)
+System.Delegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:443)
+System.MulticastDelegate:DynamicInvokeImpl(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/MulticastDelegate.cs:71)
+System.Delegate:DynamicInvoke(Object[]) (at /Users/builduser/buildslave/mono/build/mcs/class/corlib/System/Delegate.cs:415)
+Vuforia.DelegateHelper:InvokeDelegate(Delegate, Object[])
+Vuforia.DelegateHelper:InvokeWithExceptionHandling(Action)
+Vuforia.VuforiaAbstractBehaviour:OnDisable()
+ 
+(Filename: /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs Line: 222)
+
